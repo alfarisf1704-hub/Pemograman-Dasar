@@ -16,3 +16,9 @@ int main()
     cout << age1 << endl;
     cout << nama << endl;
 }
+
+int main()
+{
+    int p, l, luas;
+    cout << "masukan panjang" << endl;
+}
