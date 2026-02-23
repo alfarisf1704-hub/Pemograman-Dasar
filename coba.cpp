@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 
-// variabel global
 string nama;
 
 int main()
@@ -11,8 +10,9 @@ int main()
     int age1;
     age = 20;
     age1 = 15;
+    nama = "Fauzan";
 
-    cout << "hello world" << endl;
     cout << age << endl;
     cout << age1 << endl;
+    cout << nama << endl;
 }
