@@ -18,4 +18,8 @@ int main()
     cout << nama << endl;
     cout << "masukan panjang" << endl;
     cin >> p;
+    cout << "masukan lebar" << endl;
+    cin >> l;
+    luas = p * l;
+    cout << "hasilnya : " << luas << endl;
 }
